@@ -25,7 +25,7 @@ bloody_effect() {
 print_horror_logo() {
     clear
     bloody_effect
-    cat << 'EOF'
+    cat << EOF
         ╔══════════════════════════════════════════════════════════════════════╗
         ║  ${RED}💀${NC} ${BOLD}${RED}K A L I N E T H U N T E R ${RED}- P R O ${RED}💀 H O R R O R ${NC}${BOLD}${RED}E D I T I O N${NC} ${RED}💀${NC}                      ║
         ║  ${PURPLE}┌──────────────────────────────────────────────────────────────┐${NC}    ║
